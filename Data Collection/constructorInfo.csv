@@ -1,0 +1,1092 @@
+,season,constructorId,name,nationality
+0,1950,adams,Adams,American
+1,1950,alfa,Alfa Romeo,Swiss
+2,1950,alta,Alta,British
+3,1950,cooper,Cooper,British
+4,1950,deidt,Deidt,American
+5,1950,era,ERA,British
+6,1950,ewing,Ewing,American
+7,1950,ferrari,Ferrari,Italian
+8,1950,kurtis_kraft,Kurtis Kraft,American
+9,1950,langley,Langley,American
+10,1950,lesovsky,Lesovsky,American
+11,1950,marchese,Marchese,American
+12,1950,maserati,Maserati,Italian
+13,1950,milano,Milano,Italian
+14,1950,moore,Moore,American
+15,1950,nichels,Nichels,American
+16,1950,olson,Olson,American
+17,1950,rae,Rae,American
+18,1950,simca,Simca,French
+19,1950,snowberger,Snowberger,American
+20,1950,stevens,Stevens,American
+21,1950,lago,Talbot-Lago,French
+22,1950,watson,Watson,American
+23,1950,wetteroth,Wetteroth,American
+24,1951,alfa,Alfa Romeo,Swiss
+25,1951,alta,Alta,British
+26,1951,brm,BRM,British
+27,1951,bromme,Bromme,American
+28,1951,deidt,Deidt,American
+29,1951,era,ERA,British
+30,1951,ferrari,Ferrari,Italian
+31,1951,hall,Hall,American
+32,1951,hwm,HWM,British
+33,1951,kurtis_kraft,Kurtis Kraft,American
+34,1951,kuzma,Kuzma,American
+35,1951,lesovsky,Lesovsky,American
+36,1951,marchese,Marchese,American
+37,1951,maserati,Maserati,Italian
+38,1951,moore,Moore,American
+39,1951,osca,OSCA,Italian
+40,1951,pawl,Pawl,American
+41,1951,schroeder,Schroeder,American
+42,1951,sherman,Sherman,American
+43,1951,simca,Simca,French
+44,1951,lago,Talbot-Lago,French
+45,1951,trevis,Trevis,American
+46,1951,veritas,Veritas,German
+47,1951,watson,Watson,American
+48,1952,afm,AFM,German
+49,1952,alta,Alta,British
+50,1952,butterworth,Aston Butterworth,British
+51,1952,bmw,BMW,German
+52,1952,bromme,Bromme,American
+53,1952,cisitalia,Cisitalia,Italian
+54,1952,connaught,Connaught,British
+55,1952,cooper,Cooper,British
+56,1952,deidt,Deidt,American
+57,1952,era,ERA,British
+58,1952,ferrari,Ferrari,Italian
+59,1952,frazer_nash,Frazer Nash,British
+60,1952,gordini,Gordini,French
+61,1952,hwm,HWM,British
+62,1952,kurtis_kraft,Kurtis Kraft,American
+63,1952,kuzma,Kuzma,American
+64,1952,lesovsky,Lesovsky,American
+65,1952,maserati,Maserati,Italian
+66,1952,osca,OSCA,Italian
+67,1952,sherman,Sherman,American
+68,1952,simca,Simca,French
+69,1952,stevens,Stevens,American
+70,1952,trevis,Trevis,American
+71,1952,veritas,Veritas,German
+72,1952,watson,Watson,American
+73,1953,afm,AFM,German
+74,1953,bmw,BMW,German
+75,1953,bromme,Bromme,American
+76,1953,connaught,Connaught,British
+77,1953,cooper,Cooper,British
+78,1953,del_roy,Del Roy,American
+79,1953,emw,EMW,East German
+80,1953,ferrari,Ferrari,Italian
+81,1953,gordini,Gordini,French
+82,1953,hwm,HWM,British
+83,1953,kurtis_kraft,Kurtis Kraft,American
+84,1953,kuzma,Kuzma,American
+85,1953,lesovsky,Lesovsky,American
+86,1953,maserati,Maserati,Italian
+87,1953,osca,OSCA,Italian
+88,1953,schroeder,Schroeder,American
+89,1953,simca,Simca,French
+90,1953,stevens,Stevens,American
+91,1953,turner,Turner,American
+92,1953,veritas,Veritas,German
+93,1953,watson,Watson,American
+94,1954,bromme,Bromme,American
+95,1954,connaught,Connaught,British
+96,1954,cooper,Cooper,British
+97,1954,ferrari,Ferrari,Italian
+98,1954,gordini,Gordini,French
+99,1954,hwm,HWM,British
+100,1954,klenk,Klenk,German
+101,1954,kurtis_kraft,Kurtis Kraft,American
+102,1954,kuzma,Kuzma,American
+103,1954,lancia,Lancia,Italian
+104,1954,maserati,Maserati,Italian
+105,1954,mercedes,Mercedes,German
+106,1954,nichels,Nichels,American
+107,1954,pankratz,Pankratz,American
+108,1954,pawl,Pawl,American
+109,1954,phillips,Phillips,American
+110,1954,schroeder,Schroeder,American
+111,1954,stevens,Stevens,American
+112,1954,vanwall,Vanwall,British
+113,1955,arzani-volpini,Arzani-Volpini,Italian
+114,1955,connaught,Connaught,British
+115,1955,cooper,Cooper,British
+116,1955,epperly,Epperly,American
+117,1955,ferrari,Ferrari,Italian
+118,1955,gordini,Gordini,French
+119,1955,hwm,HWM,British
+120,1955,kurtis_kraft,Kurtis Kraft,American
+121,1955,kuzma,Kuzma,American
+122,1955,lancia,Lancia,Italian
+123,1955,maserati,Maserati,Italian
+124,1955,mercedes,Mercedes,German
+125,1955,pankratz,Pankratz,American
+126,1955,pawl,Pawl,American
+127,1955,phillips,Phillips,American
+128,1955,schroeder,Schroeder,American
+129,1955,stevens,Stevens,American
+130,1955,trevis,Trevis,American
+131,1955,vanwall,Vanwall,British
+132,1956,brm,BRM,British
+133,1956,bugatti,Bugatti,French
+134,1956,connaught,Connaught,British
+135,1956,cooper,Cooper,British
+136,1956,emeryson,Emeryson,British
+137,1956,ferrari,Ferrari,Italian
+138,1956,gordini,Gordini,French
+139,1956,kurtis_kraft,Kurtis Kraft,American
+140,1956,kuzma,Kuzma,American
+141,1956,lesovsky,Lesovsky,American
+142,1956,maserati,Maserati,Italian
+143,1956,phillips,Phillips,American
+144,1956,stevens,Stevens,American
+145,1956,vanwall,Vanwall,British
+146,1956,watson,Watson,American
+147,1957,brm,BRM,British
+148,1957,connaught,Connaught,British
+149,1957,cooper,Cooper,British
+150,1957,dunn,Dunn,American
+151,1957,epperly,Epperly,American
+152,1957,ferrari,Ferrari,Italian
+153,1957,kurtis_kraft,Kurtis Kraft,American
+154,1957,kuzma,Kuzma,American
+155,1957,lesovsky,Lesovsky,American
+156,1957,maserati,Maserati,Italian
+157,1957,phillips,Phillips,American
+158,1957,porsche,Porsche,German
+159,1957,vanwall,Vanwall,British
+160,1957,watson,Watson,American
+161,1958,brm,BRM,British
+162,1958,connaught,Connaught,British
+163,1958,cooper,Cooper,British
+164,1958,dunn,Dunn,American
+165,1958,epperly,Epperly,American
+166,1958,ferrari,Ferrari,Italian
+167,1958,kurtis_kraft,Kurtis Kraft,American
+168,1958,kuzma,Kuzma,American
+169,1958,lesovsky,Lesovsky,American
+170,1958,maserati,Maserati,Italian
+171,1958,osca,OSCA,Italian
+172,1958,phillips,Phillips,American
+173,1958,porsche,Porsche,German
+174,1958,team_lotus,Team Lotus,British
+175,1958,vanwall,Vanwall,British
+176,1958,watson,Watson,American
+177,1959,aston_martin,Aston Martin,British
+178,1959,brm,BRM,British
+179,1959,vhristensen,Christensen,American
+180,1959,connaught,Connaught,British
+181,1959,cooper-borgward,Cooper-Borgward,British
+182,1959,cooper-climax,Cooper-Climax,British
+183,1959,cooper-maserati,Cooper-Maserati,British
+184,1959,cooper-osca,Cooper-OSCA,British
+185,1959,dunn,Dunn,American
+186,1959,elder,Elder,American
+187,1959,epperly,Epperly,American
+188,1959,ferrari,Ferrari,Italian
+189,1959,fry,Fry,British
+190,1959,jbw,JBW,British
+191,1959,kurtis_kraft,Kurtis Kraft,American
+192,1959,kuzma,Kuzma,American
+193,1959,lesovsky,Lesovsky,American
+194,1959,maserati,Maserati,Italian
+195,1959,moore,Moore,American
+196,1959,phillips,Phillips,American
+197,1959,porsche,Porsche,German
+198,1959,sutton,Sutton,American
+199,1959,team_lotus,Team Lotus,British
+200,1959,tec-mec,Tec-Mec,Italian
+201,1959,vanwall,Vanwall,British
+202,1959,watson,Watson,American
+203,1960,aston_martin,Aston Martin,British
+204,1960,behra-porsche,Behra-Porsche,Italian
+205,1960,brm,BRM,British
+206,1960,vhristensen,Christensen,American
+207,1960,cooper-castellotti,Cooper-Castellotti,British
+208,1960,cooper-climax,Cooper-Climax,British
+209,1960,cooper-maserati,Cooper-Maserati,British
+210,1960,epperly,Epperly,American
+211,1960,ewing,Ewing,American
+212,1960,ferrari,Ferrari,Italian
+213,1960,jbw,JBW,British
+214,1960,kurtis_kraft,Kurtis Kraft,American
+215,1960,kuzma,Kuzma,American
+216,1960,lesovsky,Lesovsky,American
+217,1960,maserati,Maserati,Italian
+218,1960,meskowski,Meskowski,American
+219,1960,phillips,Phillips,American
+220,1960,porsche,Porsche,German
+221,1960,scarab,Scarab,American
+222,1960,team_lotus,Team Lotus,British
+223,1960,trevis,Trevis,American
+224,1960,vanwall,Vanwall,British
+225,1960,watson,Watson,American
+226,1961,brm,BRM,British
+227,1961,cooper-climax,Cooper-Climax,British
+228,1961,cooper-maserati,Cooper-Maserati,British
+229,1961,de_tomaso-alfa_romeo,De Tomaso-Alfa Romeo,Italian
+230,1961,de_tomaso-osca,De Tomaso-Osca,Italian
+231,1961,emeryson,Emeryson,British
+232,1961,ferguson,Ferguson,British
+233,1961,ferrari,Ferrari,Italian
+234,1961,gilby,Gilby,British
+235,1961,jbw,JBW,British
+236,1961,lotus-climax,Lotus-Climax,British
+237,1961,lotus-maserati,Lotus-Maserati,British
+238,1961,mbm,MBM,Swiss
+239,1961,porsche,Porsche,German
+240,1962,brabham,Brabham,British
+241,1962,brm,BRM,British
+242,1962,cooper,Cooper,British
+243,1962,cooper-alfa_romeo,Cooper-Alfa Romeo,British
+244,1962,cooper-climax,Cooper-Climax,British
+245,1962,tomaso,De Tomaso,Italian
+246,1962,de_tomaso-alfa_romeo,De Tomaso-Alfa Romeo,Italian
+247,1962,de_tomaso-osca,De Tomaso-Osca,Italian
+248,1962,emeryson,Emeryson,British
+249,1962,enb,ENB,Belgian
+250,1962,ferrari,Ferrari,Italian
+251,1962,gilby,Gilby,British
+252,1962,lds,LDS,South African
+253,1962,lola,Lola,British
+254,1962,lotus-borgward,Lotus-Borgward,British
+255,1962,lotus-brm,Lotus-BRM,British
+256,1962,lotus-climax,Lotus-Climax,British
+257,1962,porsche,Porsche,German
+258,1962,team_lotus,Team Lotus,British
+259,1963,alfa,Alfa Romeo,Swiss
+260,1963,ats,ATS,Italian
+261,1963,brabham,Brabham,British
+262,1963,brm,BRM,British
+263,1963,brp,BRP,British
+264,1963,cooper-climax,Cooper-Climax,British
+265,1963,cooper-maserati,Cooper-Maserati,British
+266,1963,tomaso,De Tomaso,Italian
+267,1963,de_tomaso-ferrari,De Tomaso-Ferrari,Italian
+268,1963,ferrari,Ferrari,Italian
+269,1963,gilby,Gilby,British
+270,1963,lds,LDS,South African
+271,1963,lola,Lola,British
+272,1963,lotus-borgward,Lotus-Borgward,British
+273,1963,lotus-brm,Lotus-BRM,British
+274,1963,lotus-climax,Lotus-Climax,British
+275,1963,lotus-ford,Lotus-Ford,British
+276,1963,lotus-maserati,Lotus-Maserati,British
+277,1963,porsche,Porsche,German
+278,1963,scirocco,Scirocco,British
+279,1963,stebro,Stebro,Canadian
+280,1963,team_lotus,Team Lotus,British
+281,1964,brabham-brm,Brabham-BRM,British
+282,1964,brabham-climax,Brabham-Climax,British
+283,1964,brabham-ford,Brabham-Ford,British
+284,1964,brm,BRM,British
+285,1964,brp,BRP,British
+286,1964,cooper-climax,Cooper-Climax,British
+287,1964,derrington,Derrington,British
+288,1964,ferrari,Ferrari,Italian
+289,1964,honda,Honda,Japanese
+290,1964,lotus-brm,Lotus-BRM,British
+291,1964,lotus-climax,Lotus-Climax,British
+292,1964,porsche,Porsche,German
+293,1964,scirocco,Scirocco,British
+294,1965,alfa,Alfa Romeo,Swiss
+295,1965,brabham-brm,Brabham-BRM,British
+296,1965,brabham-climax,Brabham-Climax,British
+297,1965,brabham-ford,Brabham-Ford,British
+298,1965,brm,BRM,British
+299,1965,cooper-climax,Cooper-Climax,British
+300,1965,cooper-ford,Cooper-Ford,British
+301,1965,cooper-maserati,Cooper-Maserati,British
+302,1965,ferrari,Ferrari,Italian
+303,1965,honda,Honda,Japanese
+304,1965,lds-alfa_romeo,LDS-Alfa Romeo,South African
+305,1965,lds-climax,LDS-Climax,South African
+306,1965,lotus-brm,Lotus-BRM,British
+307,1965,lotus-climax,Lotus-Climax,British
+308,1965,lotus-ford,Lotus-Ford,British
+309,1965,re,RE,Rhodesian
+310,1966,brabham-brm,Brabham-BRM,British
+311,1966,brabham-climax,Brabham-Climax,British
+312,1966,brabham-repco,Brabham-Repco,British
+313,1966,brm,BRM,British
+314,1966,cooper-ferrari,Cooper-Ferrari,British
+315,1966,cooper-maserati,Cooper-Maserati,British
+316,1966,eagle-climax,Eagle-Climax,American
+317,1966,eagle-weslake,Eagle-Weslake,American
+318,1966,ferrari,Ferrari,Italian
+319,1966,honda,Honda,Japanese
+320,1966,lotus-brm,Lotus-BRM,British
+321,1966,lotus-climax,Lotus-Climax,British
+322,1966,mclaren-ford,McLaren-Ford,British
+323,1966,mclaren-seren,McLaren-Serenissima,British
+324,1966,shannon,Shannon,British
+325,1967,brabham-climax,Brabham-Climax,British
+326,1967,brabham-ford,Brabham-Ford,British
+327,1967,brabham-repco,Brabham-Repco,British
+328,1967,brm,BRM,British
+329,1967,cooper-ats,Cooper-ATS,British
+330,1967,cooper-climax,Cooper-Climax,British
+331,1967,cooper-maserati,Cooper-Maserati,British
+332,1967,eagle-climax,Eagle-Climax,American
+333,1967,eagle-weslake,Eagle-Weslake,American
+334,1967,ferrari,Ferrari,Italian
+335,1967,honda,Honda,Japanese
+336,1967,lds-climax,LDS-Climax,South African
+337,1967,lola,Lola,British
+338,1967,lotus-brm,Lotus-BRM,British
+339,1967,lotus-climax,Lotus-Climax,British
+340,1967,lotus-ford,Lotus-Ford,British
+341,1967,matra,Matra,French
+342,1967,mclaren-brm,McLaren-BRM,British
+343,1967,mclaren-ford,McLaren-Ford,British
+344,1967,protos,Protos,British
+345,1968,brabham-climax,Brabham-Climax,British
+346,1968,brabham-repco,Brabham-Repco,British
+347,1968,brm,BRM,British
+348,1968,cooper-brm,Cooper-BRM,British
+349,1968,cooper-climax,Cooper-Climax,British
+350,1968,cooper-maserati,Cooper-Maserati,British
+351,1968,eagle-weslake,Eagle-Weslake,American
+352,1968,ferrari,Ferrari,Italian
+353,1968,honda,Honda,Japanese
+354,1968,lds,LDS,South African
+355,1968,lola,Lola,British
+356,1968,lotus-ford,Lotus-Ford,British
+357,1968,matra,Matra,French
+358,1968,matra-ford,Matra-Ford,French
+359,1968,mclaren,McLaren,British
+360,1968,mclaren-brm,McLaren-BRM,British
+361,1968,mclaren-ford,McLaren-Ford,British
+362,1969,brabham-climax,Brabham-Climax,British
+363,1969,brabham-ford,Brabham-Ford,British
+364,1969,brabham-repco,Brabham-Repco,British
+365,1969,brm,BRM,British
+366,1969,brm-ford,BRM-Ford,British
+367,1969,cooper-maserati,Cooper-Maserati,British
+368,1969,eagle-climax,Eagle-Climax,American
+369,1969,ferrari,Ferrari,Italian
+370,1969,lotus-ford,Lotus-Ford,British
+371,1969,matra-ford,Matra-Ford,French
+372,1969,mclaren-ford,McLaren-Ford,British
+373,1970,bellasi,Bellasi,Swiss
+374,1970,brabham,Brabham,British
+375,1970,brm,BRM,British
+376,1970,tomaso,De Tomaso,Italian
+377,1970,ferrari,Ferrari,Italian
+378,1970,march,March,British
+379,1970,matra,Matra,French
+380,1970,mclaren-alfa_romeo,McLaren-Alfa Romeo,British
+381,1970,mclaren-ford,McLaren-Ford,British
+382,1970,surtees,Surtees,British
+383,1970,team_lotus,Team Lotus,British
+384,1970,tyrrell,Tyrrell,British
+385,1971,bellasi,Bellasi,Swiss
+386,1971,brabham,Brabham,British
+387,1971,brm,BRM,British
+388,1971,ferrari,Ferrari,Italian
+389,1971,lotus-ford,Lotus-Ford,British
+390,1971,lotus-pw,Lotus-Pratt &amp; Whitney,British
+391,1971,march-alfa_romeo,March-Alfa Romeo,British
+392,1971,march-ford,March-Ford,British
+393,1971,matra,Matra,French
+394,1971,mclaren,McLaren,British
+395,1971,surtees,Surtees,British
+396,1971,tyrrell,Tyrrell,British
+397,1972,brabham,Brabham,British
+398,1972,brm,BRM,British
+399,1972,connew,Connew,British
+400,1972,ferrari,Ferrari,Italian
+401,1972,march,March,British
+402,1972,matra,Matra,French
+403,1972,mclaren,McLaren,British
+404,1972,politoys,Politoys,British
+405,1972,surtees,Surtees,British
+406,1972,team_lotus,Team Lotus,British
+407,1972,tecno,Tecno,Italian
+408,1972,tyrrell,Tyrrell,British
+409,1973,brabham,Brabham,British
+410,1973,brm,BRM,British
+411,1973,ensign,Ensign,British
+412,1973,ferrari,Ferrari,Italian
+413,1973,iso_marlboro,Iso Marlboro,British
+414,1973,march,March,British
+415,1973,mclaren,McLaren,British
+416,1973,shadow,Shadow,British
+417,1973,surtees,Surtees,British
+418,1973,team_lotus,Team Lotus,British
+419,1973,tecno,Tecno,Italian
+420,1973,tyrrell,Tyrrell,British
+421,1974,amon,Amon,New Zealander
+422,1974,brabham,Brabham,British
+423,1974,brm,BRM,British
+424,1974,ensign,Ensign,British
+425,1974,ferrari,Ferrari,Italian
+426,1974,hesketh,Hesketh,British
+427,1974,iso_marlboro,Iso Marlboro,British
+428,1974,lola,Lola,British
+429,1974,lyncar,Lyncar,British
+430,1974,maki,Maki,Japanese
+431,1974,march,March,British
+432,1974,mclaren,McLaren,British
+433,1974,parnelli,Parnelli,American
+434,1974,penske,Penske,American
+435,1974,shadow,Shadow,British
+436,1974,surtees,Surtees,British
+437,1974,team_lotus,Team Lotus,British
+438,1974,token,Token,British
+439,1974,trojan,Trojan,British
+440,1974,tyrrell,Tyrrell,British
+441,1975,brabham,Brabham,British
+442,1975,brm,BRM,British
+443,1975,hill,Embassy Hill,British
+444,1975,ensign,Ensign,British
+445,1975,ferrari,Ferrari,Italian
+446,1975,fittipaldi,Fittipaldi,Brazilian
+447,1975,hesketh,Hesketh,British
+448,1975,lola,Lola,British
+449,1975,lyncar,Lyncar,British
+450,1975,maki,Maki,Japanese
+451,1975,march,March,British
+452,1975,mclaren,McLaren,British
+453,1975,parnelli,Parnelli,American
+454,1975,penske,Penske,American
+455,1975,shadow-ford,Shadow-Ford,British
+456,1975,shadow-matra,Shadow-Matra,British
+457,1975,surtees,Surtees,British
+458,1975,team_lotus,Team Lotus,British
+459,1975,tyrrell,Tyrrell,British
+460,1975,williams,Williams,British
+461,1976,boro,Boro,Dutch
+462,1976,brabham-alfa_romeo,Brabham-Alfa Romeo,British
+463,1976,brabham-ford,Brabham-Ford,British
+464,1976,brm,BRM,British
+465,1976,ensign,Ensign,British
+466,1976,ferrari,Ferrari,Italian
+467,1976,fittipaldi,Fittipaldi,Brazilian
+468,1976,hesketh,Hesketh,British
+469,1976,kojima,Kojima,Japanese
+470,1976,ligier,Ligier,French
+471,1976,maki,Maki,Japanese
+472,1976,march,March,British
+473,1976,mclaren,McLaren,British
+474,1976,parnelli,Parnelli,American
+475,1976,penske,Penske,American
+476,1976,shadow,Shadow,British
+477,1976,surtees,Surtees,British
+478,1976,team_lotus,Team Lotus,British
+479,1976,tyrrell,Tyrrell,British
+480,1976,williams,Williams,British
+481,1976,wolf,Wolf,Canadian
+482,1977,apollon,Apollon,Swiss
+483,1977,boro,Boro,Dutch
+484,1977,brabham,Brabham,British
+485,1977,brm,BRM,British
+486,1977,ensign,Ensign,British
+487,1977,ferrari,Ferrari,Italian
+488,1977,fittipaldi,Fittipaldi,Brazilian
+489,1977,hesketh,Hesketh,British
+490,1977,kojima,Kojima,Japanese
+491,1977,lec,LEC,British
+492,1977,ligier,Ligier,French
+493,1977,march,March,British
+494,1977,mcguire,McGuire,Australian
+495,1977,mclaren,McLaren,British
+496,1977,penske,Penske,American
+497,1977,renault,Renault,French
+498,1977,shadow,Shadow,British
+499,1977,surtees,Surtees,British
+500,1977,team_lotus,Team Lotus,British
+501,1977,tyrrell,Tyrrell,British
+502,1977,wolf,Wolf,Canadian
+503,1978,arrows,Arrows,British
+504,1978,ats,ATS,Italian
+505,1978,brabham,Brabham,British
+506,1978,ensign,Ensign,British
+507,1978,ferrari,Ferrari,Italian
+508,1978,fittipaldi,Fittipaldi,Brazilian
+509,1978,hesketh,Hesketh,British
+510,1978,ligier,Ligier,French
+511,1978,martini,Martini,French
+512,1978,mclaren,McLaren,British
+513,1978,merzario,Merzario,Italian
+514,1978,renault,Renault,French
+515,1978,shadow,Shadow,British
+516,1978,surtees,Surtees,British
+517,1978,team_lotus,Team Lotus,British
+518,1978,theodore,Theodore,Hong Kong
+519,1978,tyrrell,Tyrrell,British
+520,1978,williams,Williams,British
+521,1978,wolf,Wolf,Canadian
+522,1979,alfa,Alfa Romeo,Swiss
+523,1979,arrows,Arrows,British
+524,1979,ats,ATS,Italian
+525,1979,brabham-alfa_romeo,Brabham-Alfa Romeo,British
+526,1979,brabham-ford,Brabham-Ford,British
+527,1979,ensign,Ensign,British
+528,1979,ferrari,Ferrari,Italian
+529,1979,fittipaldi,Fittipaldi,Brazilian
+530,1979,kauhsen,Kauhsen,German
+531,1979,ligier,Ligier,French
+532,1979,mclaren,McLaren,British
+533,1979,merzario,Merzario,Italian
+534,1979,rebaque,Rebaque,Mexican
+535,1979,renault,Renault,French
+536,1979,shadow,Shadow,British
+537,1979,team_lotus,Team Lotus,British
+538,1979,tyrrell,Tyrrell,British
+539,1979,williams,Williams,British
+540,1979,wolf,Wolf,Canadian
+541,1980,alfa,Alfa Romeo,Swiss
+542,1980,arrows,Arrows,British
+543,1980,ats,ATS,Italian
+544,1980,brabham,Brabham,British
+545,1980,ensign,Ensign,British
+546,1980,ferrari,Ferrari,Italian
+547,1980,fittipaldi,Fittipaldi,Brazilian
+548,1980,ligier,Ligier,French
+549,1980,mclaren,McLaren,British
+550,1980,osella,Osella,Italian
+551,1980,renault,Renault,French
+552,1980,shadow,Shadow,British
+553,1980,team_lotus,Team Lotus,British
+554,1980,tyrrell,Tyrrell,British
+555,1980,williams,Williams,British
+556,1981,alfa,Alfa Romeo,Swiss
+557,1981,arrows,Arrows,British
+558,1981,ats,ATS,Italian
+559,1981,brabham,Brabham,British
+560,1981,ensign,Ensign,British
+561,1981,ferrari,Ferrari,Italian
+562,1981,fittipaldi,Fittipaldi,Brazilian
+563,1981,ligier,Ligier,French
+564,1981,march,March,British
+565,1981,mclaren,McLaren,British
+566,1981,osella,Osella,Italian
+567,1981,renault,Renault,French
+568,1981,team_lotus,Team Lotus,British
+569,1981,theodore,Theodore,Hong Kong
+570,1981,toleman,Toleman,British
+571,1981,tyrrell,Tyrrell,British
+572,1981,williams,Williams,British
+573,1982,alfa,Alfa Romeo,Swiss
+574,1982,arrows,Arrows,British
+575,1982,ats,ATS,Italian
+576,1982,brabham,Brabham,British
+577,1982,ensign,Ensign,British
+578,1982,ferrari,Ferrari,Italian
+579,1982,fittipaldi,Fittipaldi,Brazilian
+580,1982,ligier,Ligier,French
+581,1982,march,March,British
+582,1982,mclaren,McLaren,British
+583,1982,osella,Osella,Italian
+584,1982,renault,Renault,French
+585,1982,team_lotus,Team Lotus,British
+586,1982,theodore,Theodore,Hong Kong
+587,1982,toleman,Toleman,British
+588,1982,tyrrell,Tyrrell,British
+589,1982,williams,Williams,British
+590,1983,alfa,Alfa Romeo,Swiss
+591,1983,arrows,Arrows,British
+592,1983,ats,ATS,Italian
+593,1983,brabham,Brabham,British
+594,1983,ferrari,Ferrari,Italian
+595,1983,ligier,Ligier,French
+596,1983,mclaren,McLaren,British
+597,1983,osella,Osella,Italian
+598,1983,ram,RAM,British
+599,1983,renault,Renault,French
+600,1983,spirit,Spirit,British
+601,1983,team_lotus,Team Lotus,British
+602,1983,theodore,Theodore,Hong Kong
+603,1983,toleman,Toleman,British
+604,1983,tyrrell,Tyrrell,British
+605,1983,williams,Williams,British
+606,1984,alfa,Alfa Romeo,Swiss
+607,1984,arrows,Arrows,British
+608,1984,ats,ATS,Italian
+609,1984,brabham,Brabham,British
+610,1984,ferrari,Ferrari,Italian
+611,1984,ligier,Ligier,French
+612,1984,mclaren,McLaren,British
+613,1984,osella,Osella,Italian
+614,1984,ram,RAM,British
+615,1984,renault,Renault,French
+616,1984,spirit,Spirit,British
+617,1984,team_lotus,Team Lotus,British
+618,1984,toleman,Toleman,British
+619,1984,tyrrell,Tyrrell,British
+620,1984,williams,Williams,British
+621,1985,alfa,Alfa Romeo,Swiss
+622,1985,arrows,Arrows,British
+623,1985,brabham,Brabham,British
+624,1985,ferrari,Ferrari,Italian
+625,1985,ligier,Ligier,French
+626,1985,lola,Lola,British
+627,1985,mclaren,McLaren,British
+628,1985,minardi,Minardi,Italian
+629,1985,osella,Osella,Italian
+630,1985,ram,RAM,British
+631,1985,renault,Renault,French
+632,1985,spirit,Spirit,British
+633,1985,team_lotus,Team Lotus,British
+634,1985,toleman,Toleman,British
+635,1985,tyrrell,Tyrrell,British
+636,1985,williams,Williams,British
+637,1985,zakspeed,Zakspeed,German
+638,1986,ags,AGS,French
+639,1986,arrows,Arrows,British
+640,1986,benetton,Benetton,Italian
+641,1986,brabham,Brabham,British
+642,1986,ferrari,Ferrari,Italian
+643,1986,ligier,Ligier,French
+644,1986,lola,Lola,British
+645,1986,mclaren,McLaren,British
+646,1986,minardi,Minardi,Italian
+647,1986,osella,Osella,Italian
+648,1986,team_lotus,Team Lotus,British
+649,1986,tyrrell,Tyrrell,British
+650,1986,williams,Williams,British
+651,1986,zakspeed,Zakspeed,German
+652,1987,ags,AGS,French
+653,1987,arrows,Arrows,British
+654,1987,benetton,Benetton,Italian
+655,1987,brabham,Brabham,British
+656,1987,coloni,Coloni,Italian
+657,1987,ferrari,Ferrari,Italian
+658,1987,larrousse,Larrousse,French
+659,1987,ligier,Ligier,French
+660,1987,march,March,British
+661,1987,mclaren,McLaren,British
+662,1987,minardi,Minardi,Italian
+663,1987,osella,Osella,Italian
+664,1987,team_lotus,Team Lotus,British
+665,1987,tyrrell,Tyrrell,British
+666,1987,williams,Williams,British
+667,1987,zakspeed,Zakspeed,German
+668,1988,ags,AGS,French
+669,1988,arrows,Arrows,British
+670,1988,benetton,Benetton,Italian
+671,1988,coloni,Coloni,Italian
+672,1988,dallara,Dallara,Italian
+673,1988,eurobrun,Euro Brun,Italian
+674,1988,ferrari,Ferrari,Italian
+675,1988,larrousse,Larrousse,French
+676,1988,ligier,Ligier,French
+677,1988,march,March,British
+678,1988,mclaren,McLaren,British
+679,1988,minardi,Minardi,Italian
+680,1988,osella,Osella,Italian
+681,1988,rial,Rial,German
+682,1988,team_lotus,Team Lotus,British
+683,1988,tyrrell,Tyrrell,British
+684,1988,williams,Williams,British
+685,1988,zakspeed,Zakspeed,German
+686,1989,ags,AGS,French
+687,1989,arrows,Arrows,British
+688,1989,benetton,Benetton,Italian
+689,1989,brabham,Brabham,British
+690,1989,coloni,Coloni,Italian
+691,1989,dallara,Dallara,Italian
+692,1989,eurobrun,Euro Brun,Italian
+693,1989,ferrari,Ferrari,Italian
+694,1989,larrousse,Larrousse,French
+695,1989,ligier,Ligier,French
+696,1989,march,March,British
+697,1989,mclaren,McLaren,British
+698,1989,minardi,Minardi,Italian
+699,1989,onyx,Onyx,British
+700,1989,osella,Osella,Italian
+701,1989,rial,Rial,German
+702,1989,team_lotus,Team Lotus,British
+703,1989,tyrrell,Tyrrell,British
+704,1989,williams,Williams,British
+705,1989,zakspeed,Zakspeed,German
+706,1990,ags,AGS,French
+707,1990,arrows,Arrows,British
+708,1990,benetton,Benetton,Italian
+709,1990,brabham,Brabham,British
+710,1990,coloni,Coloni,Italian
+711,1990,dallara,Dallara,Italian
+712,1990,eurobrun,Euro Brun,Italian
+713,1990,ferrari,Ferrari,Italian
+714,1990,larrousse,Larrousse,French
+715,1990,leyton,Leyton House,British
+716,1990,life,Life,Italian
+717,1990,ligier,Ligier,French
+718,1990,mclaren,McLaren,British
+719,1990,minardi,Minardi,Italian
+720,1990,onyx,Onyx,British
+721,1990,osella,Osella,Italian
+722,1990,team_lotus,Team Lotus,British
+723,1990,tyrrell,Tyrrell,British
+724,1990,williams,Williams,British
+725,1991,ags,AGS,French
+726,1991,benetton,Benetton,Italian
+727,1991,brabham,Brabham,British
+728,1991,coloni,Coloni,Italian
+729,1991,dallara,Dallara,Italian
+730,1991,ferrari,Ferrari,Italian
+731,1991,fondmetal,Fondmetal,Italian
+732,1991,footwork,Footwork,British
+733,1991,jordan,Jordan,Irish
+734,1991,lambo,Lambo,Italian
+735,1991,larrousse,Larrousse,French
+736,1991,leyton,Leyton House,British
+737,1991,ligier,Ligier,French
+738,1991,lola,Lola,British
+739,1991,mclaren,McLaren,British
+740,1991,minardi,Minardi,Italian
+741,1991,team_lotus,Team Lotus,British
+742,1991,tyrrell,Tyrrell,British
+743,1991,williams,Williams,British
+744,1992,moda,Andrea Moda,Italian
+745,1992,benetton,Benetton,Italian
+746,1992,brabham,Brabham,British
+747,1992,dallara,Dallara,Italian
+748,1992,ferrari,Ferrari,Italian
+749,1992,fondmetal,Fondmetal,Italian
+750,1992,footwork,Footwork,British
+751,1992,jordan,Jordan,Irish
+752,1992,larrousse,Larrousse,French
+753,1992,ligier,Ligier,French
+754,1992,march,March,British
+755,1992,mclaren,McLaren,British
+756,1992,minardi,Minardi,Italian
+757,1992,team_lotus,Team Lotus,British
+758,1992,tyrrell,Tyrrell,British
+759,1992,williams,Williams,British
+760,1993,benetton,Benetton,Italian
+761,1993,ferrari,Ferrari,Italian
+762,1993,footwork,Footwork,British
+763,1993,jordan,Jordan,Irish
+764,1993,larrousse,Larrousse,French
+765,1993,ligier,Ligier,French
+766,1993,lola,Lola,British
+767,1993,mclaren,McLaren,British
+768,1993,minardi,Minardi,Italian
+769,1993,sauber,Sauber,Swiss
+770,1993,team_lotus,Team Lotus,British
+771,1993,tyrrell,Tyrrell,British
+772,1993,williams,Williams,British
+773,1994,benetton,Benetton,Italian
+774,1994,ferrari,Ferrari,Italian
+775,1994,footwork,Footwork,British
+776,1994,jordan,Jordan,Irish
+777,1994,larrousse,Larrousse,French
+778,1994,ligier,Ligier,French
+779,1994,mclaren,McLaren,British
+780,1994,minardi,Minardi,Italian
+781,1994,pacific,Pacific,British
+782,1994,sauber,Sauber,Swiss
+783,1994,simtek,Simtek,British
+784,1994,team_lotus,Team Lotus,British
+785,1994,tyrrell,Tyrrell,British
+786,1994,williams,Williams,British
+787,1995,benetton,Benetton,Italian
+788,1995,ferrari,Ferrari,Italian
+789,1995,footwork,Footwork,British
+790,1995,forti,Forti,Italian
+791,1995,jordan,Jordan,Irish
+792,1995,ligier,Ligier,French
+793,1995,mclaren,McLaren,British
+794,1995,minardi,Minardi,Italian
+795,1995,pacific,Pacific,British
+796,1995,sauber,Sauber,Swiss
+797,1995,simtek,Simtek,British
+798,1995,tyrrell,Tyrrell,British
+799,1995,williams,Williams,British
+800,1996,benetton,Benetton,Italian
+801,1996,ferrari,Ferrari,Italian
+802,1996,footwork,Footwork,British
+803,1996,forti,Forti,Italian
+804,1996,jordan,Jordan,Irish
+805,1996,ligier,Ligier,French
+806,1996,mclaren,McLaren,British
+807,1996,minardi,Minardi,Italian
+808,1996,sauber,Sauber,Swiss
+809,1996,tyrrell,Tyrrell,British
+810,1996,williams,Williams,British
+811,1997,arrows,Arrows,British
+812,1997,benetton,Benetton,Italian
+813,1997,ferrari,Ferrari,Italian
+814,1997,jordan,Jordan,Irish
+815,1997,lola,Lola,British
+816,1997,mclaren,McLaren,British
+817,1997,minardi,Minardi,Italian
+818,1997,prost,Prost,French
+819,1997,sauber,Sauber,Swiss
+820,1997,stewart,Stewart,British
+821,1997,tyrrell,Tyrrell,British
+822,1997,williams,Williams,British
+823,1998,arrows,Arrows,British
+824,1998,benetton,Benetton,Italian
+825,1998,ferrari,Ferrari,Italian
+826,1998,jordan,Jordan,Irish
+827,1998,mclaren,McLaren,British
+828,1998,minardi,Minardi,Italian
+829,1998,prost,Prost,French
+830,1998,sauber,Sauber,Swiss
+831,1998,stewart,Stewart,British
+832,1998,tyrrell,Tyrrell,British
+833,1998,williams,Williams,British
+834,1999,arrows,Arrows,British
+835,1999,bar,BAR,British
+836,1999,benetton,Benetton,Italian
+837,1999,ferrari,Ferrari,Italian
+838,1999,jordan,Jordan,Irish
+839,1999,mclaren,McLaren,British
+840,1999,minardi,Minardi,Italian
+841,1999,prost,Prost,French
+842,1999,sauber,Sauber,Swiss
+843,1999,stewart,Stewart,British
+844,1999,williams,Williams,British
+845,2000,arrows,Arrows,British
+846,2000,bar,BAR,British
+847,2000,benetton,Benetton,Italian
+848,2000,ferrari,Ferrari,Italian
+849,2000,jaguar,Jaguar,British
+850,2000,jordan,Jordan,Irish
+851,2000,mclaren,McLaren,British
+852,2000,minardi,Minardi,Italian
+853,2000,prost,Prost,French
+854,2000,sauber,Sauber,Swiss
+855,2000,williams,Williams,British
+856,2001,arrows,Arrows,British
+857,2001,bar,BAR,British
+858,2001,benetton,Benetton,Italian
+859,2001,ferrari,Ferrari,Italian
+860,2001,jaguar,Jaguar,British
+861,2001,jordan,Jordan,Irish
+862,2001,mclaren,McLaren,British
+863,2001,minardi,Minardi,Italian
+864,2001,prost,Prost,French
+865,2001,sauber,Sauber,Swiss
+866,2001,williams,Williams,British
+867,2002,arrows,Arrows,British
+868,2002,bar,BAR,British
+869,2002,ferrari,Ferrari,Italian
+870,2002,jaguar,Jaguar,British
+871,2002,jordan,Jordan,Irish
+872,2002,mclaren,McLaren,British
+873,2002,minardi,Minardi,Italian
+874,2002,renault,Renault,French
+875,2002,sauber,Sauber,Swiss
+876,2002,toyota,Toyota,Japanese
+877,2002,williams,Williams,British
+878,2003,bar,BAR,British
+879,2003,ferrari,Ferrari,Italian
+880,2003,jaguar,Jaguar,British
+881,2003,jordan,Jordan,Irish
+882,2003,mclaren,McLaren,British
+883,2003,minardi,Minardi,Italian
+884,2003,renault,Renault,French
+885,2003,sauber,Sauber,Swiss
+886,2003,toyota,Toyota,Japanese
+887,2003,williams,Williams,British
+888,2004,bar,BAR,British
+889,2004,ferrari,Ferrari,Italian
+890,2004,jaguar,Jaguar,British
+891,2004,jordan,Jordan,Irish
+892,2004,mclaren,McLaren,British
+893,2004,minardi,Minardi,Italian
+894,2004,renault,Renault,French
+895,2004,sauber,Sauber,Swiss
+896,2004,toyota,Toyota,Japanese
+897,2004,williams,Williams,British
+898,2005,bar,BAR,British
+899,2005,ferrari,Ferrari,Italian
+900,2005,jordan,Jordan,Irish
+901,2005,mclaren,McLaren,British
+902,2005,minardi,Minardi,Italian
+903,2005,red_bull,Red Bull,Austrian
+904,2005,renault,Renault,French
+905,2005,sauber,Sauber,Swiss
+906,2005,toyota,Toyota,Japanese
+907,2005,williams,Williams,British
+908,2006,bmw_sauber,BMW Sauber,German
+909,2006,ferrari,Ferrari,Italian
+910,2006,honda,Honda,Japanese
+911,2006,mclaren,McLaren,British
+912,2006,mf1,MF1,Russian
+913,2006,red_bull,Red Bull,Austrian
+914,2006,renault,Renault,French
+915,2006,spyker_mf1,Spyker MF1,Dutch
+916,2006,super_aguri,Super Aguri,Japanese
+917,2006,toro_rosso,Toro Rosso,Italian
+918,2006,toyota,Toyota,Japanese
+919,2006,williams,Williams,British
+920,2007,bmw_sauber,BMW Sauber,German
+921,2007,ferrari,Ferrari,Italian
+922,2007,honda,Honda,Japanese
+923,2007,mclaren,McLaren,British
+924,2007,red_bull,Red Bull,Austrian
+925,2007,renault,Renault,French
+926,2007,spyker,Spyker,Dutch
+927,2007,super_aguri,Super Aguri,Japanese
+928,2007,toro_rosso,Toro Rosso,Italian
+929,2007,toyota,Toyota,Japanese
+930,2007,williams,Williams,British
+931,2008,bmw_sauber,BMW Sauber,German
+932,2008,ferrari,Ferrari,Italian
+933,2008,force_india,Force India,Indian
+934,2008,honda,Honda,Japanese
+935,2008,mclaren,McLaren,British
+936,2008,red_bull,Red Bull,Austrian
+937,2008,renault,Renault,French
+938,2008,super_aguri,Super Aguri,Japanese
+939,2008,toro_rosso,Toro Rosso,Italian
+940,2008,toyota,Toyota,Japanese
+941,2008,williams,Williams,British
+942,2009,bmw_sauber,BMW Sauber,German
+943,2009,brawn,Brawn,British
+944,2009,ferrari,Ferrari,Italian
+945,2009,force_india,Force India,Indian
+946,2009,mclaren,McLaren,British
+947,2009,red_bull,Red Bull,Austrian
+948,2009,renault,Renault,French
+949,2009,toro_rosso,Toro Rosso,Italian
+950,2009,toyota,Toyota,Japanese
+951,2009,williams,Williams,British
+952,2010,ferrari,Ferrari,Italian
+953,2010,force_india,Force India,Indian
+954,2010,hrt,HRT,Spanish
+955,2010,lotus_racing,Lotus,Malaysian
+956,2010,mclaren,McLaren,British
+957,2010,mercedes,Mercedes,German
+958,2010,red_bull,Red Bull,Austrian
+959,2010,renault,Renault,French
+960,2010,sauber,Sauber,Swiss
+961,2010,toro_rosso,Toro Rosso,Italian
+962,2010,virgin,Virgin,British
+963,2010,williams,Williams,British
+964,2011,ferrari,Ferrari,Italian
+965,2011,force_india,Force India,Indian
+966,2011,hrt,HRT,Spanish
+967,2011,lotus_racing,Lotus,Malaysian
+968,2011,mclaren,McLaren,British
+969,2011,mercedes,Mercedes,German
+970,2011,red_bull,Red Bull,Austrian
+971,2011,renault,Renault,French
+972,2011,sauber,Sauber,Swiss
+973,2011,toro_rosso,Toro Rosso,Italian
+974,2011,virgin,Virgin,British
+975,2011,williams,Williams,British
+976,2012,caterham,Caterham,Malaysian
+977,2012,ferrari,Ferrari,Italian
+978,2012,force_india,Force India,Indian
+979,2012,hrt,HRT,Spanish
+980,2012,lotus_f1,Lotus F1,British
+981,2012,marussia,Marussia,Russian
+982,2012,mclaren,McLaren,British
+983,2012,mercedes,Mercedes,German
+984,2012,red_bull,Red Bull,Austrian
+985,2012,sauber,Sauber,Swiss
+986,2012,toro_rosso,Toro Rosso,Italian
+987,2012,williams,Williams,British
+988,2013,caterham,Caterham,Malaysian
+989,2013,ferrari,Ferrari,Italian
+990,2013,force_india,Force India,Indian
+991,2013,lotus_f1,Lotus F1,British
+992,2013,marussia,Marussia,Russian
+993,2013,mclaren,McLaren,British
+994,2013,mercedes,Mercedes,German
+995,2013,red_bull,Red Bull,Austrian
+996,2013,sauber,Sauber,Swiss
+997,2013,toro_rosso,Toro Rosso,Italian
+998,2013,williams,Williams,British
+999,2014,caterham,Caterham,Malaysian
+1000,2014,ferrari,Ferrari,Italian
+1001,2014,force_india,Force India,Indian
+1002,2014,lotus_f1,Lotus F1,British
+1003,2014,marussia,Marussia,Russian
+1004,2014,mclaren,McLaren,British
+1005,2014,mercedes,Mercedes,German
+1006,2014,red_bull,Red Bull,Austrian
+1007,2014,sauber,Sauber,Swiss
+1008,2014,toro_rosso,Toro Rosso,Italian
+1009,2014,williams,Williams,British
+1010,2015,ferrari,Ferrari,Italian
+1011,2015,force_india,Force India,Indian
+1012,2015,lotus_f1,Lotus F1,British
+1013,2015,manor,Manor Marussia,British
+1014,2015,mclaren,McLaren,British
+1015,2015,mercedes,Mercedes,German
+1016,2015,red_bull,Red Bull,Austrian
+1017,2015,sauber,Sauber,Swiss
+1018,2015,toro_rosso,Toro Rosso,Italian
+1019,2015,williams,Williams,British
+1020,2016,ferrari,Ferrari,Italian
+1021,2016,force_india,Force India,Indian
+1022,2016,haas,Haas F1 Team,American
+1023,2016,manor,Manor Marussia,British
+1024,2016,mclaren,McLaren,British
+1025,2016,mercedes,Mercedes,German
+1026,2016,red_bull,Red Bull,Austrian
+1027,2016,renault,Renault,French
+1028,2016,sauber,Sauber,Swiss
+1029,2016,toro_rosso,Toro Rosso,Italian
+1030,2016,williams,Williams,British
+1031,2017,ferrari,Ferrari,Italian
+1032,2017,force_india,Force India,Indian
+1033,2017,haas,Haas F1 Team,American
+1034,2017,mclaren,McLaren,British
+1035,2017,mercedes,Mercedes,German
+1036,2017,red_bull,Red Bull,Austrian
+1037,2017,renault,Renault,French
+1038,2017,sauber,Sauber,Swiss
+1039,2017,toro_rosso,Toro Rosso,Italian
+1040,2017,williams,Williams,British
+1041,2018,ferrari,Ferrari,Italian
+1042,2018,force_india,Force India,Indian
+1043,2018,haas,Haas F1 Team,American
+1044,2018,mclaren,McLaren,British
+1045,2018,mercedes,Mercedes,German
+1046,2018,red_bull,Red Bull,Austrian
+1047,2018,renault,Renault,French
+1048,2018,sauber,Sauber,Swiss
+1049,2018,toro_rosso,Toro Rosso,Italian
+1050,2018,williams,Williams,British
+1051,2019,alfa,Alfa Romeo,Swiss
+1052,2019,ferrari,Ferrari,Italian
+1053,2019,haas,Haas F1 Team,American
+1054,2019,mclaren,McLaren,British
+1055,2019,mercedes,Mercedes,German
+1056,2019,racing_point,Racing Point,British
+1057,2019,red_bull,Red Bull,Austrian
+1058,2019,renault,Renault,French
+1059,2019,toro_rosso,Toro Rosso,Italian
+1060,2019,williams,Williams,British
+1061,2020,alfa,Alfa Romeo,Swiss
+1062,2020,alphatauri,AlphaTauri,Italian
+1063,2020,ferrari,Ferrari,Italian
+1064,2020,haas,Haas F1 Team,American
+1065,2020,mclaren,McLaren,British
+1066,2020,mercedes,Mercedes,German
+1067,2020,racing_point,Racing Point,British
+1068,2020,red_bull,Red Bull,Austrian
+1069,2020,renault,Renault,French
+1070,2020,williams,Williams,British
+1071,2021,alfa,Alfa Romeo,Swiss
+1072,2021,alphatauri,AlphaTauri,Italian
+1073,2021,alpine,Alpine F1 Team,French
+1074,2021,aston_martin,Aston Martin,British
+1075,2021,ferrari,Ferrari,Italian
+1076,2021,haas,Haas F1 Team,American
+1077,2021,mclaren,McLaren,British
+1078,2021,mercedes,Mercedes,German
+1079,2021,red_bull,Red Bull,Austrian
+1080,2021,williams,Williams,British
+1081,2022,alfa,Alfa Romeo,Swiss
+1082,2022,alphatauri,AlphaTauri,Italian
+1083,2022,alpine,Alpine F1 Team,French
+1084,2022,aston_martin,Aston Martin,British
+1085,2022,ferrari,Ferrari,Italian
+1086,2022,haas,Haas F1 Team,American
+1087,2022,mclaren,McLaren,British
+1088,2022,mercedes,Mercedes,German
+1089,2022,red_bull,Red Bull,Austrian
+1090,2022,williams,Williams,British
