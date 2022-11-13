@@ -19,8 +19,8 @@
 17,1950,1,silverstone,17,20.0,graffenried,maserati,8,,Engine,0.0
 18,1950,1,silverstone,18,19.0,chiron,maserati,11,,Clutch,0.0
 19,1950,1,silverstone,19,17.0,martin,lago,7,,Oil pressure,0.0
-20,1950,1,silverstone,20,9.0,rolt,era,10,,Gearbox,0.0
-21,1950,1,silverstone,20,9.0,peter_walker,era,10,,Gearbox,0.0
+20,1950,1,silverstone,20,9.0,peter_walker,era,10,,Gearbox,0.0
+21,1950,1,silverstone,20,9.0,rolt,era,10,,Gearbox,0.0
 22,1950,1,silverstone,21,8.0,leslie_johnson,era,12,,Supercharger,0.0
 23,1950,2,monaco,1,34.0,fangio,alfa,1,3:13:18.7,Finished,9.0
 24,1950,2,monaco,2,40.0,ascari,ferrari,7,,+1 Lap,6.0
@@ -126,8 +126,8 @@
 124,1950,6,reims,17,12.0,sommer,lago,16,,Overheating,0.0
 125,1950,6,reims,18,36.0,gonzalez,maserati,8,,Engine,0.0
 126,1950,7,monza,1,10.0,farina,alfa,3,2:51:17.4,Finished,8.0
-127,1950,7,monza,2,48.0,ascari,ferrari,6,,Finished,3.0
-128,1950,7,monza,2,48.0,serafini,ferrari,6,+1:18.6,Finished,3.0
+127,1950,7,monza,2,48.0,serafini,ferrari,6,+1:18.6,Finished,3.0
+128,1950,7,monza,2,48.0,ascari,ferrari,6,,Finished,3.0
 129,1950,7,monza,3,36.0,fagioli,alfa,5,+1:35.6,Finished,4.0
 130,1950,7,monza,4,58.0,rosier,lago,13,,+5 Laps,3.0
 131,1950,7,monza,5,24.0,etancelin,lago,16,,+5 Laps,2.0
@@ -138,8 +138,8 @@
 136,1950,7,monza,10,12.0,sommer,lago,8,,Gearbox,0.0
 137,1950,7,monza,11,40.0,guy_mairesse,lago,11,,Oil pipe,0.0
 138,1950,7,monza,12,4.0,rol,maserati,9,,Retired,0.0
-139,1950,7,monza,13,60.0,fangio,alfa,7,,Engine,0.0
-140,1950,7,monza,13,60.0,taruffi,alfa,7,,Engine,0.0
+139,1950,7,monza,13,60.0,taruffi,alfa,7,,Engine,0.0
+140,1950,7,monza,13,60.0,fangio,alfa,7,,Engine,0.0
 141,1950,7,monza,14,56.0,levegh,lago,20,,Gearbox,0.0
 142,1950,7,monza,15,18.0,fangio,alfa,1,,Gearbox,1.0
 143,1950,7,monza,16,2.0,claes,lago,22,,Overheating,0.0
@@ -177,8 +177,8 @@
 175,1951,1,bremgarten,21,52.0,hirt,veritas,16,,Fuel system,0.0
 176,1951,2,indianapolis,1,99.0,wallard,kurtis_kraft,2,3:57:38.05,Finished,9.0
 177,1951,2,indianapolis,2,83.0,nazaruk,kurtis_kraft,7,+1:47.24,Finished,6.0
-178,1951,2,indianapolis,3,9.0,mcgrath,kurtis_kraft,3,+2:51.39,Finished,2.0
-179,1951,2,indianapolis,3,9.0,ayulo,kurtis_kraft,3,+2:51.39,Finished,2.0
+178,1951,2,indianapolis,3,9.0,ayulo,kurtis_kraft,3,+2:51.39,Finished,2.0
+179,1951,2,indianapolis,3,9.0,mcgrath,kurtis_kraft,3,+2:51.39,Finished,2.0
 180,1951,2,indianapolis,4,57.0,linden,sherman,31,+4:40.12,Finished,3.0
 181,1951,2,indianapolis,5,52.0,ball,schroeder,29,+4:52.23,Finished,2.0
 182,1951,2,indianapolis,6,1.0,banks,moore,17,+5:40.02,Finished,0.0
@@ -413,8 +413,8 @@
 411,1952,4,essarts,8,28.0,etancelin,maserati,18,,+7 Laps,0.0
 412,1952,4,essarts,9,20.0,macklin,hwm,14,,+7 Laps,0.0
 413,1952,4,essarts,10,24.0,cabantous,hwm,10,,+9 Laps,0.0
-414,1952,4,essarts,11,34.0,fischer,ferrari,17,,+11 Laps,0.0
-415,1952,4,essarts,11,34.0,hirt,ferrari,17,,+11 Laps,0.0
+414,1952,4,essarts,11,34.0,hirt,ferrari,17,,+11 Laps,0.0
+415,1952,4,essarts,11,34.0,fischer,ferrari,17,,+11 Laps,0.0
 416,1952,4,essarts,12,38.0,comotti,ferrari,16,,+14 Laps,0.0
 417,1952,4,essarts,13,6.0,bira,gordini,7,,Axle,0.0
 418,1952,4,essarts,14,42.0,hawthorn,cooper,15,,Ignition,0.0
@@ -493,8 +493,8 @@
 491,1952,7,zandvoort,6,12.0,trintignant,gordini,5,,+3 Laps,0.0
 492,1952,7,zandvoort,7,28.0,duncan_hamilton,hwm,10,,+5 Laps,0.0
 493,1952,7,zandvoort,8,26.0,macklin,hwm,9,,+6 Laps,0.0
-494,1952,7,zandvoort,9,16.0,flinterman,maserati,16,,+7 Laps,0.0
-495,1952,7,zandvoort,9,16.0,landi,maserati,16,,+7 Laps,0.0
+494,1952,7,zandvoort,9,16.0,landi,maserati,16,,+7 Laps,0.0
+495,1952,7,zandvoort,9,16.0,flinterman,maserati,16,,+7 Laps,0.0
 496,1952,7,zandvoort,10,34.0,wharton,frazer_nash,7,,Wheel bearing,0.0
 497,1952,7,zandvoort,11,36.0,moss,era,18,,Engine,0.0
 498,1952,7,zandvoort,12,30.0,lof,hwm,14,,Not classified,0.0
@@ -555,27 +555,27 @@
 553,1953,2,indianapolis,2,16.0,cross,kurtis_kraft,12,+3:30.87,Finished,6.0
 554,1953,2,indianapolis,3,3.0,hanks,kurtis_kraft,9,+4:11.50,Finished,2.0
 555,1953,2,indianapolis,3,3.0,darter,kurtis_kraft,9,+4:11.50,Finished,2.0
-556,1953,2,indianapolis,4,59.0,agabashian,kurtis_kraft,2,+4:39.24,Finished,1.5
-557,1953,2,indianapolis,4,59.0,paul_russo,kurtis_kraft,2,+4:39.24,Finished,1.5
+556,1953,2,indianapolis,4,59.0,paul_russo,kurtis_kraft,2,+4:39.24,Finished,1.5
+557,1953,2,indianapolis,4,59.0,agabashian,kurtis_kraft,2,+4:39.24,Finished,1.5
 558,1953,2,indianapolis,5,5.0,mcgrath,kurtis_kraft,3,+7:49.64,Finished,2.0
 559,1953,2,indianapolis,6,48.0,daywalt,kurtis_kraft,21,+8:10.21,Finished,0.0
 560,1953,2,indianapolis,7,2.0,rathmann,kurtis_kraft,25,+8:46.02,Finished,0.0
 561,1953,2,indianapolis,7,2.0,johnson,kurtis_kraft,25,+8:46.02,Finished,0.0
 562,1953,2,indianapolis,8,12.0,mccoy,stevens,20,+10:04.55,Finished,0.0
-563,1953,2,indianapolis,9,98.0,stevenson,kuzma,6,,Accident,0.0
-564,1953,2,indianapolis,9,98.0,hartley,kuzma,6,,Accident,0.0
-565,1953,2,indianapolis,9,98.0,bettenhausen,kuzma,6,,Accident,0.0
+563,1953,2,indianapolis,9,98.0,bettenhausen,kuzma,6,,Accident,0.0
+564,1953,2,indianapolis,9,98.0,stevenson,kuzma,6,,Accident,0.0
+565,1953,2,indianapolis,9,98.0,hartley,kuzma,6,,Accident,0.0
 566,1953,2,indianapolis,10,53.0,davies,kurtis_kraft,32,,+7 Laps,0.0
 567,1953,2,indianapolis,11,9.0,nalon,kurtis_kraft,26,,Accident,0.0
-568,1953,2,indianapolis,12,73.0,scarborough,kurtis_kraft,19,,+10 Laps,0.0
-569,1953,2,indianapolis,12,73.0,bob_scott,kurtis_kraft,19,,+10 Laps,0.0
+568,1953,2,indianapolis,12,73.0,bob_scott,kurtis_kraft,19,,+10 Laps,0.0
+569,1953,2,indianapolis,12,73.0,scarborough,kurtis_kraft,19,,+10 Laps,0.0
 570,1953,2,indianapolis,13,88.0,ayulo,kuzma,4,,Engine,0.0
 571,1953,2,indianapolis,14,8.0,bryan,schroeder,31,,+17 Laps,0.0
 572,1953,2,indianapolis,15,49.0,rathmann,kurtis_kraft,28,,Magneto,0.0
 573,1953,2,indianapolis,15,49.0,holland,kurtis_kraft,28,,Magneto,0.0
-574,1953,2,indianapolis,16,92.0,ward,kurtis_kraft,10,,Axle,0.0
+574,1953,2,indianapolis,16,92.0,dinsmore,kurtis_kraft,10,,Axle,0.0
 575,1953,2,indianapolis,16,92.0,linden,kurtis_kraft,10,,Axle,0.0
-576,1953,2,indianapolis,16,92.0,dinsmore,kurtis_kraft,10,,Axle,0.0
+576,1953,2,indianapolis,16,92.0,ward,kurtis_kraft,10,,Axle,0.0
 577,1953,2,indianapolis,17,23.0,faulkner,kurtis_kraft,14,,+24 Laps,0.0
 578,1953,2,indianapolis,17,23.0,mantz,kurtis_kraft,14,,+24 Laps,0.0
 579,1953,2,indianapolis,18,22.0,teague,kurtis_kraft,22,,Oil leak,0.0
@@ -583,8 +583,8 @@
 581,1953,2,indianapolis,19,62.0,webb,kurtis_kraft,18,,Oil leak,0.0
 582,1953,3,zandvoort,1,2.0,ascari,ferrari,1,2:53:35.8,Finished,8.0
 583,1953,3,zandvoort,2,6.0,farina,ferrari,3,+10.4,Finished,6.0
-584,1953,3,zandvoort,3,16.0,bonetto,maserati,13,,+1 Lap,2.0
-585,1953,3,zandvoort,3,16.0,gonzalez,maserati,13,,+1 Lap,2.0
+584,1953,3,zandvoort,3,16.0,gonzalez,maserati,13,,+1 Lap,2.0
+585,1953,3,zandvoort,3,16.0,bonetto,maserati,13,,+1 Lap,2.0
 586,1953,3,zandvoort,4,8.0,hawthorn,ferrari,6,,+1 Lap,3.0
 587,1953,3,zandvoort,5,18.0,graffenried,maserati,7,,+2 Laps,2.0
 588,1953,3,zandvoort,6,24.0,trintignant,gordini,12,,+3 Laps,0.0
@@ -732,8 +732,8 @@
 730,1953,9,monza,4,8.0,hawthorn,ferrari,6,,+1 Lap,3.0
 731,1953,9,monza,5,36.0,trintignant,gordini,8,,+1 Lap,2.0
 732,1953,9,monza,6,40.0,mieres,gordini,16,,+3 Laps,0.0
-733,1953,9,monza,7,56.0,mantovani,maserati,12,,+4 Laps,0.0
-734,1953,9,monza,7,56.0,musso,maserati,12,,+4 Laps,0.0
+733,1953,9,monza,7,56.0,musso,maserati,12,,+4 Laps,0.0
+734,1953,9,monza,7,56.0,mantovani,maserati,12,,+4 Laps,0.0
 735,1953,9,monza,8,10.0,maglioli,ferrari,11,,+5 Laps,0.0
 736,1953,9,monza,9,38.0,schell,gordini,15,,+5 Laps,0.0
 737,1953,9,monza,10,32.0,chiron,osca,25,,+8 Laps,0.0
@@ -777,8 +777,8 @@
 775,1954,2,indianapolis,1,14.0,vukovich,kurtis_kraft,19,3:49:17.27,Finished,8.0
 776,1954,2,indianapolis,2,9.0,bryan,kuzma,3,+1:09.95,Finished,6.0
 777,1954,2,indianapolis,3,2.0,mcgrath,kurtis_kraft,1,+1:19.73,Finished,5.0
-778,1954,2,indianapolis,4,34.0,ruttman,kurtis_kraft,11,+2:52.68,Finished,1.5
-779,1954,2,indianapolis,4,34.0,darter,kurtis_kraft,11,+2:52.68,Finished,1.5
+778,1954,2,indianapolis,4,34.0,darter,kurtis_kraft,11,+2:52.68,Finished,1.5
+779,1954,2,indianapolis,4,34.0,ruttman,kurtis_kraft,11,+2:52.68,Finished,1.5
 780,1954,2,indianapolis,5,73.0,nazaruk,kurtis_kraft,14,+3:24.55,Finished,2.0
 781,1954,2,indianapolis,6,77.0,agabashian,kurtis_kraft,24,+3:47.55,Finished,0.0
 782,1954,2,indianapolis,7,7.0,freeland,phillips,6,+4:13.35,Finished,0.0
@@ -786,24 +786,24 @@
 784,1954,2,indianapolis,8,5.0,paul_russo,kurtis_kraft,32,+5:01.17,Finished,0.0
 785,1954,2,indianapolis,9,28.0,crockett,kurtis_kraft,25,+7:07.24,Finished,0.0
 786,1954,2,indianapolis,10,24.0,niday,stevens,13,+7:07.69,Finished,0.0
-787,1954,2,indianapolis,11,45.0,davies,kurtis_kraft,27,+8:22.19,Finished,0.0
-788,1954,2,indianapolis,11,45.0,parsons,kurtis_kraft,27,+8:22.19,Finished,0.0
-789,1954,2,indianapolis,11,45.0,cross,kurtis_kraft,27,+8:22.19,Finished,0.0
-790,1954,2,indianapolis,11,45.0,hanks,kurtis_kraft,27,+8:22.19,Finished,0.0
-791,1954,2,indianapolis,11,45.0,linden,kurtis_kraft,27,+8:22.19,Finished,0.0
-792,1954,2,indianapolis,12,98.0,faulkner,kuzma,5,,+1 Lap,0.0
-793,1954,2,indianapolis,12,98.0,stevenson,kuzma,5,,+1 Lap,0.0
+787,1954,2,indianapolis,11,45.0,linden,kurtis_kraft,27,+8:22.19,Finished,0.0
+788,1954,2,indianapolis,11,45.0,davies,kurtis_kraft,27,+8:22.19,Finished,0.0
+789,1954,2,indianapolis,11,45.0,parsons,kurtis_kraft,27,+8:22.19,Finished,0.0
+790,1954,2,indianapolis,11,45.0,cross,kurtis_kraft,27,+8:22.19,Finished,0.0
+791,1954,2,indianapolis,11,45.0,hanks,kurtis_kraft,27,+8:22.19,Finished,0.0
+792,1954,2,indianapolis,12,98.0,stevenson,kuzma,5,,+1 Lap,0.0
+793,1954,2,indianapolis,12,98.0,faulkner,kuzma,5,,+1 Lap,0.0
 794,1954,2,indianapolis,13,88.0,ayulo,kuzma,22,,+3 Laps,0.0
 795,1954,2,indianapolis,14,17.0,sweikert,kurtis_kraft,9,,+3 Laps,0.0
-796,1954,2,indianapolis,15,16.0,jackson,kurtis_kraft,8,,+4 Laps,0.0
-797,1954,2,indianapolis,15,16.0,bettenhausen,kurtis_kraft,8,,+4 Laps,0.0
-798,1954,2,indianapolis,15,16.0,darter,kurtis_kraft,8,,+4 Laps,0.0
-799,1954,2,indianapolis,15,16.0,teague,kurtis_kraft,8,,+4 Laps,0.0
+796,1954,2,indianapolis,15,16.0,teague,kurtis_kraft,8,,+4 Laps,0.0
+797,1954,2,indianapolis,15,16.0,jackson,kurtis_kraft,8,,+4 Laps,0.0
+798,1954,2,indianapolis,15,16.0,bettenhausen,kurtis_kraft,8,,+4 Laps,0.0
+799,1954,2,indianapolis,15,16.0,darter,kurtis_kraft,8,,+4 Laps,0.0
 800,1954,2,indianapolis,16,32.0,mccoy,kurtis_kraft,20,,+6 Laps,0.0
 801,1954,2,indianapolis,17,25.0,reece,pankratz,7,,+6 Laps,0.0
 802,1954,2,indianapolis,18,27.0,elisian,stevens,31,,+7 Laps,0.0
 803,1954,2,indianapolis,18,27.0,bob_scott,stevens,31,,+7 Laps,0.0
-804,1954,2,indianapolis,19,71.0,armi,kurtis_kraft,33,,+7 Laps,0.0
+804,1954,2,indianapolis,19,71.0,fonder,kurtis_kraft,33,,+7 Laps,0.0
 805,1954,3,spa,1,26.0,fangio,maserati,1,2:44:42.4,Finished,9.0
 806,1954,3,spa,2,8.0,trintignant,ferrari,6,+24.2,Finished,6.0
 807,1954,3,spa,3,22.0,moss,maserati,9,,+1 Lap,4.0
@@ -860,8 +860,8 @@
 858,1954,5,silverstone,17,22.0,whitehouse,connaught,19,,Fuel system,0.0
 859,1954,5,silverstone,18,17.0,behra,gordini,5,,Suspension,0.0
 860,1954,5,silverstone,19,5.0,salvadori,maserati,7,,Transmission,0.0
-861,1954,5,silverstone,20,6.0,flockhart,maserati,10,,Accident,0.0
-862,1954,5,silverstone,20,6.0,bira,maserati,10,,Accident,0.0
+861,1954,5,silverstone,20,6.0,bira,maserati,10,,Accident,0.0
+862,1954,5,silverstone,20,6.0,flockhart,maserati,10,,Accident,0.0
 863,1954,5,silverstone,21,32.0,villoresi,maserati,27,,Engine,0.0
 864,1954,5,silverstone,21,32.0,ascari,maserati,27,,Engine,0.0
 865,1954,5,silverstone,22,24.0,riseley_prichard,connaught,21,,Accident,0.0
@@ -958,24 +958,24 @@
 956,1954,9,pedralbes,21,20.0,manzon,ferrari,17,,Engine,0.0
 957,1954,9,pedralbes,22,42.0,collins,vanwall,0,,Accident,0.0
 958,1955,1,galvez,1,2.0,fangio,mercedes,3,3:00:38.6,Finished,9.0
-959,1955,1,galvez,2,12.0,farina,ferrari,1,+1:29.6,Finished,2.0
-960,1955,1,galvez,2,12.0,trintignant,ferrari,1,+1:29.6,Finished,2.0
-961,1955,1,galvez,2,12.0,gonzalez,ferrari,1,+1:29.6,Finished,2.0
-962,1955,1,galvez,3,10.0,farina,ferrari,5,,+2 Laps,1.33
-963,1955,1,galvez,3,10.0,maglioli,ferrari,5,,+2 Laps,1.33
-964,1955,1,galvez,3,10.0,trintignant,ferrari,5,,+2 Laps,1.33
+959,1955,1,galvez,2,12.0,trintignant,ferrari,1,+1:29.6,Finished,2.0
+960,1955,1,galvez,2,12.0,gonzalez,ferrari,1,+1:29.6,Finished,2.0
+961,1955,1,galvez,2,12.0,farina,ferrari,1,+1:29.6,Finished,2.0
+962,1955,1,galvez,3,10.0,trintignant,ferrari,5,,+2 Laps,1.33
+963,1955,1,galvez,3,10.0,farina,ferrari,5,,+2 Laps,1.33
+964,1955,1,galvez,3,10.0,maglioli,ferrari,5,,+2 Laps,1.33
 965,1955,1,galvez,4,8.0,herrmann,mercedes,10,,+2 Laps,1.0
 966,1955,1,galvez,4,8.0,kling,mercedes,10,,+2 Laps,1.0
 967,1955,1,galvez,4,8.0,moss,mercedes,10,,+2 Laps,1.0
 968,1955,1,galvez,5,18.0,mieres,maserati,16,,+5 Laps,2.0
-969,1955,1,galvez,6,28.0,behra,maserati,7,,+8 Laps,0.0
-970,1955,1,galvez,6,28.0,schell,maserati,7,,+8 Laps,0.0
-971,1955,1,galvez,7,22.0,musso,maserati,18,,+13 Laps,0.0
-972,1955,1,galvez,7,22.0,mantovani,maserati,18,,+13 Laps,0.0
-973,1955,1,galvez,7,22.0,schell,maserati,18,,+13 Laps,0.0
-974,1955,1,galvez,8,20.0,musso,maserati,19,,Engine,0.0
-975,1955,1,galvez,8,20.0,mantovani,maserati,19,,Engine,0.0
-976,1955,1,galvez,8,20.0,behra,maserati,19,,Engine,0.0
+969,1955,1,galvez,6,28.0,schell,maserati,7,,+8 Laps,0.0
+970,1955,1,galvez,6,28.0,behra,maserati,7,,+8 Laps,0.0
+971,1955,1,galvez,7,22.0,schell,maserati,18,,+13 Laps,0.0
+972,1955,1,galvez,7,22.0,musso,maserati,18,,+13 Laps,0.0
+973,1955,1,galvez,7,22.0,mantovani,maserati,18,,+13 Laps,0.0
+974,1955,1,galvez,8,20.0,mantovani,maserati,19,,Engine,0.0
+975,1955,1,galvez,8,20.0,behra,maserati,19,,Engine,0.0
+976,1955,1,galvez,8,20.0,musso,maserati,19,,Engine,0.0
 977,1955,1,galvez,9,26.0,schell,maserati,20,,Fuel pressure,0.0
 978,1955,1,galvez,9,26.0,menditeguy,maserati,20,,Fuel pressure,0.0
 979,1955,1,galvez,9,26.0,bucci,maserati,20,,Fuel pressure,0.0
@@ -1081,12 +1081,12 @@
 1079,1955,6,aintree,3,14.0,kling,mercedes,4,+1:11.8,Finished,4.0
 1080,1955,6,aintree,4,50.0,taruffi,mercedes,5,,+1 Lap,3.0
 1081,1955,6,aintree,5,4.0,musso,maserati,9,,+1 Lap,2.0
-1082,1955,6,aintree,6,16.0,castellotti,ferrari,12,,+3 Laps,0.0
-1083,1955,6,aintree,6,16.0,hawthorn,ferrari,12,,+3 Laps,0.0
+1082,1955,6,aintree,6,16.0,hawthorn,ferrari,12,,+3 Laps,0.0
+1083,1955,6,aintree,6,16.0,castellotti,ferrari,12,,+3 Laps,0.0
 1084,1955,6,aintree,7,26.0,sparken,gordini,23,,+9 Laps,0.0
 1085,1955,6,aintree,8,46.0,macklin,maserati,16,,+11 Laps,0.0
-1086,1955,6,aintree,9,28.0,schell,vanwall,15,,+18 Laps,0.0
-1087,1955,6,aintree,9,28.0,wharton,vanwall,15,,+18 Laps,0.0
+1086,1955,6,aintree,9,28.0,wharton,vanwall,15,,+18 Laps,0.0
+1087,1955,6,aintree,9,28.0,schell,vanwall,15,,+18 Laps,0.0
 1088,1955,6,aintree,10,18.0,trintignant,ferrari,13,,Overheating,0.0
 1089,1955,6,aintree,11,6.0,mieres,maserati,6,,Engine,0.0
 1090,1955,6,aintree,12,40.0,jack_brabham,cooper,25,,Engine,0.0
@@ -1150,8 +1150,8 @@
 1148,1956,2,monaco,4,20.0,fangio,ferrari,1,,+1 Lap,1.5
 1149,1956,2,monaco,4,20.0,castellotti,ferrari,1,,+1 Lap,1.5
 1150,1956,2,monaco,5,6.0,ramos,gordini,14,,+7 Laps,2.0
-1151,1956,2,monaco,6,4.0,andre_pilette,gordini,11,,+12 Laps,0.0
-1152,1956,2,monaco,6,4.0,bayol,gordini,11,,+12 Laps,0.0
+1151,1956,2,monaco,6,4.0,bayol,gordini,11,,+12 Laps,0.0
+1152,1956,2,monaco,6,4.0,andre_pilette,gordini,11,,+12 Laps,0.0
 1153,1956,2,monaco,7,32.0,perdisa,maserati,7,,+14 Laps,0.0
 1154,1956,2,monaco,8,18.0,gould,maserati,16,,+15 Laps,0.0
 1155,1956,2,monaco,9,2.0,manzon,gordini,12,,Accident,0.0
@@ -1196,8 +1196,8 @@
 1194,1956,3,indianapolis,29,49.0,ray_crawford,kurtis_kraft,17,,Accident,0.0
 1195,1956,4,spa,1,8.0,collins,ferrari,3,2:40:00.3,Finished,8.0
 1196,1956,4,spa,2,6.0,frere,ferrari,8,+1:51.3,Finished,6.0
-1197,1956,4,spa,3,34.0,perdisa,maserati,9,+3:16.6,Finished,2.0
-1198,1956,4,spa,3,34.0,moss,maserati,9,+3:16.6,Finished,3.0
+1197,1956,4,spa,3,34.0,moss,maserati,9,+3:16.6,Finished,3.0
+1198,1956,4,spa,3,34.0,perdisa,maserati,9,+3:16.6,Finished,2.0
 1199,1956,4,spa,4,10.0,schell,vanwall,6,,+1 Lap,3.0
 1200,1956,4,spa,5,22.0,villoresi,maserati,11,,+2 Laps,2.0
 1201,1956,4,spa,6,20.0,andre_pilette,ferrari,16,,+3 Laps,0.0
@@ -1233,8 +1233,8 @@
 1231,1956,5,reims,19,22.0,schell,vanwall,4,,Engine,0.0
 1232,1956,5,reims,20,26.0,chapman,vanwall,5,,Accident,0.0
 1233,1956,6,silverstone,1,1.0,fangio,ferrari,2,2:59:47.0,Finished,8.0
-1234,1956,6,silverstone,2,4.0,collins,ferrari,12,,+1 Lap,3.0
-1235,1956,6,silverstone,2,4.0,portago,ferrari,12,,+1 Lap,3.0
+1234,1956,6,silverstone,2,4.0,portago,ferrari,12,,+1 Lap,3.0
+1235,1956,6,silverstone,2,4.0,collins,ferrari,12,,+1 Lap,3.0
 1236,1956,6,silverstone,3,8.0,behra,maserati,13,,+2 Laps,4.0
 1237,1956,6,silverstone,4,21.0,fairman,connaught,21,,+3 Laps,3.0
 1238,1956,6,silverstone,5,31.0,gould,maserati,14,,+4 Laps,2.0
@@ -1242,8 +1242,8 @@
 1240,1956,6,silverstone,7,9.0,perdisa,maserati,15,,+6 Laps,0.0
 1241,1956,6,silverstone,8,10.0,godia,maserati,25,,+7 Laps,0.0
 1242,1956,6,silverstone,9,15.0,manzon,gordini,18,,+7 Laps,0.0
-1243,1956,6,silverstone,10,3.0,castellotti,ferrari,8,,+9 Laps,0.0
-1244,1956,6,silverstone,10,3.0,portago,ferrari,8,,+9 Laps,0.0
+1243,1956,6,silverstone,10,3.0,portago,ferrari,8,,+9 Laps,0.0
+1244,1956,6,silverstone,10,3.0,castellotti,ferrari,8,,+9 Laps,0.0
 1245,1956,6,silverstone,11,26.0,gerard,cooper,22,,+13 Laps,0.0
 1246,1956,6,silverstone,12,7.0,moss,maserati,1,,Axle,1.0
 1247,1956,6,silverstone,13,16.0,schell,vanwall,5,,Fuel system,0.0
@@ -1306,8 +1306,8 @@
 1304,1956,8,monza,17,20.0,trintignant,vanwall,11,,Transmission,0.0
 1305,1956,8,monza,18,16.0,taruffi,vanwall,4,,Oil leak,0.0
 1306,1956,8,monza,19,24.0,castellotti,ferrari,2,,Tyre,0.0
-1307,1956,8,monza,20,34.0,bonnier,maserati,8,,Engine,0.0
-1308,1956,8,monza,20,34.0,villoresi,maserati,8,,Engine,0.0
+1307,1956,8,monza,20,34.0,villoresi,maserati,8,,Engine,0.0
+1308,1956,8,monza,20,34.0,bonnier,maserati,8,,Engine,0.0
 1309,1956,8,monza,21,10.0,manzon,gordini,23,,Chassis,0.0
 1310,1956,8,monza,22,30.0,portago,ferrari,9,,Tyre,0.0
 1311,1956,8,monza,23,2.0,leston,connaught,20,,Suspension,0.0
@@ -1389,8 +1389,8 @@
 1387,1957,4,essarts,4,14.0,hawthorn,ferrari,7,,+1 Lap,3.0
 1388,1957,4,essarts,5,6.0,schell,maserati,4,,+7 Laps,2.0
 1389,1957,4,essarts,6,4.0,behra,maserati,2,,+8 Laps,0.0
-1390,1957,4,essarts,7,24.0,macdowel,cooper,15,,+9 Laps,0.0
-1391,1957,4,essarts,7,24.0,jack_brabham,cooper,15,,+9 Laps,0.0
+1390,1957,4,essarts,7,24.0,jack_brabham,cooper,15,,+9 Laps,0.0
+1391,1957,4,essarts,7,24.0,macdowel,cooper,15,,+9 Laps,0.0
 1392,1957,4,essarts,8,8.0,menditeguy,maserati,9,,Engine,0.0
 1393,1957,4,essarts,9,18.0,lewis-evans,vanwall,10,,Steering,0.0
 1394,1957,4,essarts,10,20.0,salvadori,vanwall,6,,Engine,0.0
@@ -1399,8 +1399,8 @@
 1397,1957,4,essarts,13,22.0,jack_brabham,cooper,13,,Accident,0.0
 1398,1957,4,essarts,14,30.0,gould,maserati,14,,Halfshaft,0.0
 1399,1957,4,essarts,15,26.0,flockhart,brm,11,,Accident,0.0
-1400,1957,5,aintree,1,20.0,brooks,vanwall,3,3:06:37.8,Finished,4.0
-1401,1957,5,aintree,1,20.0,moss,vanwall,3,3:06:37.8,Finished,5.0
+1400,1957,5,aintree,1,20.0,moss,vanwall,3,3:06:37.8,Finished,5.0
+1401,1957,5,aintree,1,20.0,brooks,vanwall,3,3:06:37.8,Finished,4.0
 1402,1957,5,aintree,2,14.0,musso,ferrari,10,+25.6,Finished,6.0
 1403,1957,5,aintree,3,10.0,hawthorn,ferrari,5,+42.8,Finished,4.0
 1404,1957,5,aintree,4,16.0,collins,ferrari,9,,+2 Laps,0.0
@@ -1465,8 +1465,8 @@
 1463,1957,8,monza,2,2.0,fangio,maserati,4,+41.2,Finished,6.0
 1464,1957,8,monza,3,36.0,trips,ferrari,8,,+2 Laps,4.0
 1465,1957,8,monza,4,26.0,gregory,maserati,11,,+3 Laps,3.0
-1466,1957,8,monza,5,8.0,scarlatti,maserati,12,,+3 Laps,1.0
-1467,1957,8,monza,5,8.0,schell,maserati,12,,+3 Laps,1.0
+1466,1957,8,monza,5,8.0,schell,maserati,12,,+3 Laps,1.0
+1467,1957,8,monza,5,8.0,scarlatti,maserati,12,,+3 Laps,1.0
 1468,1957,8,monza,6,34.0,hawthorn,ferrari,10,,+4 Laps,0.0
 1469,1957,8,monza,7,22.0,brooks,vanwall,3,,+5 Laps,1.0
 1470,1957,8,monza,8,32.0,musso,ferrari,9,,+5 Laps,0.0
@@ -1912,8 +1912,8 @@
 1910,1959,9,sebring,19,22.0,cade,maserati,0,,Withdrew,0.0
 1911,1960,1,galvez,1,16.0,mclaren,cooper-climax,13,2:17:49.5,Finished,8.0
 1912,1960,1,galvez,2,24.0,allison,ferrari,7,+26.3,Finished,6.0
-1913,1960,1,galvez,3,38.0,trintignant,cooper-climax,8,+36.9,Finished,0.0
-1914,1960,1,galvez,3,38.0,moss,cooper-climax,8,+36.9,Finished,0.0
+1913,1960,1,galvez,3,38.0,moss,cooper-climax,8,+36.9,Finished,0.0
+1914,1960,1,galvez,3,38.0,trintignant,cooper-climax,8,+36.9,Finished,0.0
 1915,1960,1,galvez,4,6.0,menditeguy,cooper-maserati,12,+53.3,Finished,3.0
 1916,1960,1,galvez,5,30.0,trips,ferrari,5,,+1 Lap,2.0
 1917,1960,1,galvez,6,20.0,ireland,team_lotus,2,,+1 Lap,1.0
@@ -2242,8 +2242,8 @@
 2240,1961,5,aintree,16,56.0,beaufort,porsche,18,,+6 Laps,0.0
 2241,1961,5,aintree,17,52.0,seidel,lotus-climax,22,,+17 Laps,0.0
 2242,1961,5,aintree,18,18.0,clark,lotus-climax,8,,Oil leak,0.0
-2243,1961,5,aintree,19,26.0,fairman,ferguson,20,,Disqualified,0.0
-2244,1961,5,aintree,19,26.0,moss,ferguson,20,,Disqualified,0.0
+2243,1961,5,aintree,19,26.0,moss,ferguson,20,,Disqualified,0.0
+2244,1961,5,aintree,19,26.0,fairman,ferguson,20,,Disqualified,0.0
 2245,1961,5,aintree,20,32.0,bianchi,lotus-climax,30,,Gearbox,0.0
 2246,1961,5,aintree,21,28.0,moss,lotus-climax,5,,Brakes,0.0
 2247,1961,5,aintree,22,20.0,hill,brm,11,,Engine,0.0
@@ -2986,8 +2986,8 @@
 2984,1964,9,watkins_glen,9,6.0,gurney,brabham-climax,3,,Oil pressure,0.0
 2985,1964,9,watkins_glen,10,23.0,sharp,brabham-brm,18,,Not classified,0.0
 2986,1964,9,watkins_glen,11,8.0,bandini,ferrari,8,,Engine,0.0
-2987,1964,9,watkins_glen,12,2.0,spence,lotus-climax,1,,Injection,0.0
-2988,1964,9,watkins_glen,12,2.0,clark,lotus-climax,1,,Injection,0.0
+2987,1964,9,watkins_glen,12,2.0,clark,lotus-climax,1,,Injection,0.0
+2988,1964,9,watkins_glen,12,2.0,spence,lotus-climax,1,,Injection,0.0
 2989,1964,9,watkins_glen,13,25.0,bucknum,honda,14,,Overheating,0.0
 2990,1964,9,watkins_glen,14,15.0,amon,lotus-brm,11,,Engine,0.0
 2991,1964,9,watkins_glen,15,16.0,bonnier,brabham-climax,9,,Wheel,0.0
@@ -25312,17 +25312,57 @@
 25310,2022,19,americas,4,11.0,perez,red_bull,9,+8.293,Finished,12.0
 25311,2022,19,americas,5,63.0,russell,mercedes,4,+44.815,Finished,11.0
 25312,2022,19,americas,6,4.0,norris,mclaren,6,+53.785,Finished,8.0
-25313,2022,19,americas,7,5.0,vettel,aston_martin,10,+1:05.354,Finished,6.0
-25314,2022,19,americas,8,20.0,kevin_magnussen,haas,13,+1:05.834,Finished,4.0
-25315,2022,19,americas,9,22.0,tsunoda,alphatauri,19,+1:10.919,Finished,2.0
-25316,2022,19,americas,10,31.0,ocon,alpine,0,+1:12.875,Finished,1.0
-25317,2022,19,americas,11,24.0,zhou,alfa,18,+1:16.164,Finished,0.0
-25318,2022,19,americas,12,23.0,albon,williams,8,+1:20.057,Finished,0.0
-25319,2022,19,americas,13,10.0,gasly,alphatauri,11,+1:21.763,Finished,0.0
-25320,2022,19,americas,14,47.0,mick_schumacher,haas,16,+1:24.490,Finished,0.0
-25321,2022,19,americas,15,14.0,alonso,alpine,14,+1:25.078,Finished,0.0
+25313,2022,19,americas,7,14.0,alonso,alpine,14,+55.078,Finished,6.0
+25314,2022,19,americas,8,5.0,vettel,aston_martin,10,+1:05.354,Finished,4.0
+25315,2022,19,americas,9,20.0,kevin_magnussen,haas,13,+1:05.834,Finished,2.0
+25316,2022,19,americas,10,22.0,tsunoda,alphatauri,19,+1:10.919,Finished,1.0
+25317,2022,19,americas,11,31.0,ocon,alpine,0,+1:12.875,Finished,0.0
+25318,2022,19,americas,12,24.0,zhou,alfa,18,+1:16.164,Finished,0.0
+25319,2022,19,americas,13,23.0,albon,williams,8,+1:20.057,Finished,0.0
+25320,2022,19,americas,14,10.0,gasly,alphatauri,11,+1:21.763,Finished,0.0
+25321,2022,19,americas,15,47.0,mick_schumacher,haas,16,+1:24.490,Finished,0.0
 25322,2022,19,americas,16,3.0,ricciardo,mclaren,15,+1:30.487,Finished,0.0
 25323,2022,19,americas,17,6.0,latifi,williams,17,+1:43.588,Finished,0.0
 25324,2022,19,americas,18,18.0,stroll,aston_martin,5,,Collision,0.0
 25325,2022,19,americas,19,77.0,bottas,alfa,7,,Spun off,0.0
 25326,2022,19,americas,20,55.0,sainz,ferrari,1,,Collision damage,0.0
+25327,2022,20,rodriguez,1,1.0,max_verstappen,red_bull,1,1:38:36.729,Finished,25.0
+25328,2022,20,rodriguez,2,44.0,hamilton,mercedes,3,+15.186,Finished,18.0
+25329,2022,20,rodriguez,3,11.0,perez,red_bull,4,+18.097,Finished,15.0
+25330,2022,20,rodriguez,4,63.0,russell,mercedes,2,+49.431,Finished,13.0
+25331,2022,20,rodriguez,5,55.0,sainz,ferrari,5,+58.123,Finished,10.0
+25332,2022,20,rodriguez,6,16.0,leclerc,ferrari,7,+1:08.774,Finished,8.0
+25333,2022,20,rodriguez,7,3.0,ricciardo,mclaren,11,,+1 Lap,6.0
+25334,2022,20,rodriguez,8,31.0,ocon,alpine,10,,+1 Lap,4.0
+25335,2022,20,rodriguez,9,4.0,norris,mclaren,8,,+1 Lap,2.0
+25336,2022,20,rodriguez,10,77.0,bottas,alfa,6,,+1 Lap,1.0
+25337,2022,20,rodriguez,11,10.0,gasly,alphatauri,14,,+1 Lap,0.0
+25338,2022,20,rodriguez,12,23.0,albon,williams,17,,+1 Lap,0.0
+25339,2022,20,rodriguez,13,24.0,zhou,alfa,12,,+1 Lap,0.0
+25340,2022,20,rodriguez,14,5.0,vettel,aston_martin,16,,+1 Lap,0.0
+25341,2022,20,rodriguez,15,18.0,stroll,aston_martin,20,,+1 Lap,0.0
+25342,2022,20,rodriguez,16,47.0,mick_schumacher,haas,15,,+1 Lap,0.0
+25343,2022,20,rodriguez,17,20.0,kevin_magnussen,haas,19,,+1 Lap,0.0
+25344,2022,20,rodriguez,18,6.0,latifi,williams,18,,+2 Laps,0.0
+25345,2022,20,rodriguez,19,14.0,alonso,alpine,9,,Engine,0.0
+25346,2022,20,rodriguez,20,22.0,tsunoda,alphatauri,13,,Collision damage,0.0
+25347,2022,21,interlagos,1,63.0,russell,mercedes,1,1:38:34.044,Finished,26.0
+25348,2022,21,interlagos,2,44.0,hamilton,mercedes,2,+1.529,Finished,18.0
+25349,2022,21,interlagos,3,55.0,sainz,ferrari,7,+4.051,Finished,15.0
+25350,2022,21,interlagos,4,16.0,leclerc,ferrari,5,+8.441,Finished,12.0
+25351,2022,21,interlagos,5,14.0,alonso,alpine,17,+9.561,Finished,10.0
+25352,2022,21,interlagos,6,1.0,max_verstappen,red_bull,3,+10.056,Finished,8.0
+25353,2022,21,interlagos,7,11.0,perez,red_bull,4,+14.080,Finished,6.0
+25354,2022,21,interlagos,8,31.0,ocon,alpine,16,+18.690,Finished,4.0
+25355,2022,21,interlagos,9,77.0,bottas,alfa,14,+22.552,Finished,2.0
+25356,2022,21,interlagos,10,18.0,stroll,aston_martin,15,+23.552,Finished,1.0
+25357,2022,21,interlagos,11,5.0,vettel,aston_martin,9,+26.183,Finished,0.0
+25358,2022,21,interlagos,12,24.0,zhou,alfa,13,+29.325,Finished,0.0
+25359,2022,21,interlagos,13,47.0,mick_schumacher,haas,12,+29.899,Finished,0.0
+25360,2022,21,interlagos,14,10.0,gasly,alphatauri,0,+31.867,Finished,0.0
+25361,2022,21,interlagos,15,23.0,albon,williams,19,+36.016,Finished,0.0
+25362,2022,21,interlagos,16,6.0,latifi,williams,18,+37.038,Finished,0.0
+25363,2022,21,interlagos,17,22.0,tsunoda,alphatauri,13,,+1 Lap,0.0
+25364,2022,21,interlagos,18,4.0,norris,mclaren,6,,Gearbox,0.0
+25365,2022,21,interlagos,19,20.0,kevin_magnussen,haas,8,,Collision,0.0
+25366,2022,21,interlagos,20,3.0,ricciardo,mclaren,11,,Collision,0.0
